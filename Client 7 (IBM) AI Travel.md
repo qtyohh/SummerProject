@@ -1,0 +1,5 @@
+**中文：**  
+我们的团队由八位对人工智能充满热情的成员组成，拥有丰富的数据开发和 AI 模型训练经验。团队成员曾在头部互联网公司的推荐算法部门实习，也多次参加 Kaggle 算法竞赛并取得不俗成绩。在所修读的相关课程中，我们每个人都获得了优异的成绩，充分证明了我们的专业技能和学习能力。此外，我们热爱旅游，对旅游类应用有着大量使用经验，并对如何优化用户体验有深入思考。我们期待将自身的技术实力与旅行热情结合，为贵方打造更智能、更个性化的旅行平台。
+
+**英文：**  
+Our team consists of eight members who are highly passionate about artificial intelligence, possessing extensive experience in data development and AI model training. Several of us have interned in recommendation algorithm departments at leading internet companies and participated in Kaggle competitions with notable success. We have all achieved outstanding results in relevant coursework, showcasing our solid technical expertise and strong learning capabilities. Additionally, we share a deep enthusiasm for travel and have substantial experience with various travel apps, giving us valuable insights into how to enhance user experience. By combining our technical proficiency with our passion for travel, we are confident in our ability to develop a more intelligent and personalized travel platform for your organization.
