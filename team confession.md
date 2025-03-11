@@ -1,7 +1,10 @@
 7.AI Travel
-我们的团队由八位对人工智能充满热情的成员组成，拥有丰富的数据开发和 AI 模型训练经验。团队成员曾在头部互联网公司的推荐算法部门实习，也多次参加 Kaggle 算法竞赛并取得不俗成绩。在所修读的相关课程中，我们每个人都获得了优异的成绩，充分证明了我们的专业技能和学习能力。此外，我们热爱旅游，对旅游类应用有着大量使用经验，并对如何优化用户体验有深入思考。我们期待将自身的技术实力与旅行热情结合，为贵方打造更智能、更个性化的旅行平台。
-
+我们的团队由八位对人工智能充满热情的成员组成，拥有丰富的数据开发和 AI 模型训练经验。团队成员曾在字节跳动的推荐算法部门实习，也多次参加 Kaggle 算法竞赛并取得不俗成绩。在所修读的相关课程中，我们每个人都获得了优异的成绩，充分证明了我们的专业技能和学习能力。此外，我们热爱旅游，对旅游类应用有着大量使用经验，并对如何优化用户体验有深入思考。我们期待将自身的技术实力与旅行热情结合，为贵方打造更智能、更个性化的旅行平台。
 Our passionate team has extensive expertise in AI model training and data development, with recommendation-algorithm internships at ByteDance and notable achievements in Kaggle competitions. Our strong academic performance further demonstrates our technical capability. As avid travelers with deep experience using travel apps, we're uniquely positioned to deliver an intelligent, personalized travel platform tailored to enhance user experiences.（481）
+
+我们团队由八位热衷于人工智能的成员组成，具备扎实的数据开发和AI模型训练经验。通过在字节跳动推荐算法团队的实习，我们积累了数据分析与算法设计的专业技能。团队对旅游领域充满兴趣，深入思考如何通过AI技术优化用户体验。我们期待用自身的数据分析和建模能力，打造一个智慧、互动且个性化的旅行社交平台。
+ Our team of eight passionate AI enthusiasts has extensive experience in data development and AI model training, including recommendation algorithm internships at ByteDance. Our strong analytical and algorithmic skills, combined with our genuine enthusiasm for travel, position us ideally to create an intelligent, interactive, and personalized travel platform, enhancing social interactions and user experience through advanced AI technology.（490）
+
 
 11.FinTech Data Analysis Platform
 我们的八人团队精通AI模型训练和数据开发，拥有顶尖科技公司的数据分析与定量建模经验。团队熟悉Explainable AI技术，能高效开发安全可靠的数据分析平台，并提升模型的准确性。凭借金融和大数据背景，我们致力于从技术和业务角度解决金融科技挑战，打造一个安全、高效且用户友好的金融科技系统。
